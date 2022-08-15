@@ -1,0 +1,11 @@
+9.8K swallow
+7.8K scratchpads
+6.9K xrdb
+-----------------6.1K statuscmd---conflicting with statuspadding
+5.5K pertag
+3.7K focusonclick
+3.1K bottomstack
+-----------------2.4K statuspadding
+2.1K actualfullscreen
+1.2K hide_vacant_tags
+504  alwayscenter
